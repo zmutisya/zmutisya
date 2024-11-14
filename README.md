@@ -3,7 +3,7 @@
 
 I'm passionate about developing and maintaining web and mobile applications using HTML, CSS, JS, Django, Jetpack Compose, Firebase and MySQL.
 
-Skills: Python / Bootstrap / Django / JS / HTML / CSS / Firebase / MySQL / MongoDB
+Skills: Python / Bootstrap / Django / JS / HTML / CSS / Firebase / MySQL / MongoDB / Jupyter 
 
 - 🔭 I’m currently working on School Transport App 
 - 🌱 I’m currently learning Kotlin 
