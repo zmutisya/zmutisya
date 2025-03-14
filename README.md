@@ -1,7 +1,7 @@
 ### Hi, I'm Zack 👋
-#### Junior Full-Stack Developer
+#### Full-Stack Developer
 
-I'm passionate about developing and maintaining web and mobile applications using HTML, CSS, JS, Django, Jetpack Compose, Firebase and MySQL.
+I'm passionate about developing and maintaining web and mobile applications.
 
 Skills: Python / Bootstrap / Django / Next.JS / HTML / CSS / Firebase / MySQL / MongoDB / Jupyter 
 
