@@ -1,9 +1,9 @@
 ### Hi, I'm Zack 👋
 #### Full-Stack Developer
 
-I'm passionate about developing and maintaining web and mobile applications.
+I'm passionate about developing and maintaining web and mobile apps.
 
-Skills: Next.js / Tailwind CSS / Express.js / Typescript / PostgreSQL / Django / Kotlin / Firebase / Jupyter
+Skills: Next.js / Tailwind CSS / Express.js / Typescript / PostgreSQL  / Kotlin / Firebase / Jupyter
 
 - Open for collobaration
 
